@@ -1,0 +1,650 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7da2750fb926834ba39e6acf0fdf0ee, type: 3}
+  m_Name: DataTruck
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: 28328420d6d60324ba4083265b7502b5, type: 3}
+    - {fileID: -8545447256379345787, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 2100000, guid: 9e09c1903e43e1c4185f0358838c3a69, type: 2}
+    - {fileID: 2100000, guid: ebd7186bd30acff4e91daf4e6a41c90f, type: 2}
+    - {fileID: 2100000, guid: 3a46b7bfbc8002544a0fc849316baeca, type: 2}
+    - {fileID: 2100000, guid: 072fe0e5029aba14b94e93ed4872b018, type: 2}
+    - {fileID: 2100000, guid: c4c9d4859f8be26488fc760093d44638, type: 2}
+    - {fileID: 3370878524269245670, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 3083203700140954820, guid: 25c7bce31b90a0c44830fc3e58406163, type: 3}
+    - {fileID: 4915501154179810213, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: -2214890730624246611, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 7915445912333865152, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: -1997189698507361039, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 6817975186016403548, guid: 9f9d20c0f2f32be40b5d5b5c937edf2d, type: 3}
+    - {fileID: 2046654211884470279, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 3090997750165011871, guid: ea9a981882bbc454788fb116774ec6e0, type: 3}
+    - {fileID: 1833450146578522047, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 9161907469436313625, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: -3994005095190880336, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 2086930013448718691, guid: b2749e44b4c34854b90e807ec4aa789f, type: 3}
+    - {fileID: 21300000, guid: d150c1c6c532b5949b6fef8c3e8675c2, type: 3}
+    - {fileID: 4075554710936702133, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 2100000, guid: f5738f6f057fc8f4281825918a7cfc1b, type: 2}
+    - {fileID: 2100000, guid: e76f26abb182f6140bc9807a1518aa93, type: 2}
+    - {fileID: -5522571985429660219, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 5832158251169330600, guid: 03bfb4ecda591394086d190bb1fd9887, type: 3}
+    - {fileID: -6324434665418691594, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: -5311628904853177493, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: -7667711161908824604, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: -8291675294317340222, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 8437476570043098380, guid: d12bfe1a7e5dd9542a913fdc2c9fca9e, type: 3}
+    - {fileID: 4629691605919344158, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 422540977157656654, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 2817235337166183653, guid: d421355c40dd7df45ba85804795dbecd, type: 3}
+    - {fileID: 8236752254529333362, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 1109817540802212287, guid: 11336aa256c86264c8c9af8353dc805b, type: 3}
+    - {fileID: 21300000, guid: ff47383f7743da9498467cd36f3f9610, type: 3}
+    - {fileID: 8056338235882954277, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 2100000, guid: 9374b6b49d99a8b46b9be1bb57939971, type: 2}
+    - {fileID: -8097237211400966438, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 1110090481219951604, guid: db8bb6d985846334e8460cf954c584bb, type: 3}
+    - {fileID: 6556836611102786165, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 234817352433644589, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: -7232629796392513380, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 2741730356660088390, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: -1295107109274452763, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: -6793076398679516606, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 4319946034177992332, guid: 7afb843d68b051d419b31d163962922b, type: 3}
+    - {fileID: -4188056978193496045, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    - {fileID: 5537702843195386678, guid: ec1548ae47778ec409ea631134dc13c1, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: dataTruck
+      Entry: 7
+      Data: 0|MS.Internal.Xml.XPath.ClonableStack`1[[DataTruckItem, Assembly-CSharp]],
+        System.Xml
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 1|DataTruckItem, Assembly-CSharp
+    - Name: type
+      Entry: 3
+      Data: 2
+    - Name: idItem
+      Entry: 3
+      Data: 0
+    - Name: _truckSkin
+      Entry: 6
+      Data: 
+    - Name: _itemIcon
+      Entry: 10
+      Data: 0
+    - Name: price
+      Entry: 3
+      Data: 0
+    - Name: sold
+      Entry: 5
+      Data: true
+    - Name: body
+      Entry: 10
+      Data: 1
+    - Name: bodyScale
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: bodyMaterial
+      Entry: 7
+      Data: 2|UnityEngine.Material[], UnityEngine.CoreModule
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: whellList
+      Entry: 7
+      Data: 3|System.Collections.Generic.List`1[[wheelData, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 9
+    - Name: 
+      Entry: 7
+      Data: 4|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 7
+    - Name: mtr
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 9
+    - Name: mtr
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 10
+    - Name: mtr
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 11
+    - Name: mtr
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 12
+    - Name: mtr
+      Entry: 10
+      Data: 13
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 14
+    - Name: mtr
+      Entry: 10
+      Data: 15
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 10|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 16
+    - Name: mtr
+      Entry: 10
+      Data: 15
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 11|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 17
+    - Name: mtr
+      Entry: 10
+      Data: 15
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 12|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 18
+    - Name: mtr
+      Entry: 10
+      Data: 15
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 13|DataTruckItem, Assembly-CSharp
+    - Name: type
+      Entry: 3
+      Data: 2
+    - Name: idItem
+      Entry: 3
+      Data: 1
+    - Name: _truckSkin
+      Entry: 10
+      Data: 19
+    - Name: _itemIcon
+      Entry: 10
+      Data: 20
+    - Name: price
+      Entry: 3
+      Data: 5000
+    - Name: sold
+      Entry: 5
+      Data: true
+    - Name: body
+      Entry: 10
+      Data: 21
+    - Name: bodyScale
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.5
+    - Name: 
+      Entry: 4
+      Data: 0.5
+    - Name: 
+      Entry: 4
+      Data: 0.5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: bodyMaterial
+      Entry: 7
+      Data: 14|UnityEngine.Material[], UnityEngine.CoreModule
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 10
+      Data: 22
+    - Name: 
+      Entry: 10
+      Data: 23
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: whellList
+      Entry: 7
+      Data: 15|System.Collections.Generic.List`1[[wheelData, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 9
+    - Name: 
+      Entry: 7
+      Data: 16|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 24
+    - Name: mtr
+      Entry: 10
+      Data: 25
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 17|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 26
+    - Name: mtr
+      Entry: 10
+      Data: 25
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 18|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 27
+    - Name: mtr
+      Entry: 10
+      Data: 25
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 19|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 28
+    - Name: mtr
+      Entry: 10
+      Data: 25
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 20|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 29
+    - Name: mtr
+      Entry: 10
+      Data: 30
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 21|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 31
+    - Name: mtr
+      Entry: 10
+      Data: 30
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 22|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 32
+    - Name: mtr
+      Entry: 10
+      Data: 33
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 23|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 34
+    - Name: mtr
+      Entry: 10
+      Data: 33
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 24|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 18
+    - Name: mtr
+      Entry: 10
+      Data: 33
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 25|DataTruckItem, Assembly-CSharp
+    - Name: type
+      Entry: 3
+      Data: 1
+    - Name: idItem
+      Entry: 3
+      Data: 2
+    - Name: _truckSkin
+      Entry: 10
+      Data: 35
+    - Name: _itemIcon
+      Entry: 10
+      Data: 36
+    - Name: price
+      Entry: 3
+      Data: 15000
+    - Name: sold
+      Entry: 5
+      Data: true
+    - Name: body
+      Entry: 10
+      Data: 37
+    - Name: bodyScale
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.5
+    - Name: 
+      Entry: 4
+      Data: 0.5
+    - Name: 
+      Entry: 4
+      Data: 0.5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: bodyMaterial
+      Entry: 7
+      Data: 26|UnityEngine.Material[], UnityEngine.CoreModule
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 38
+    - Name: 
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: whellList
+      Entry: 7
+      Data: 27|System.Collections.Generic.List`1[[wheelData, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 9
+    - Name: 
+      Entry: 7
+      Data: 28|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 39
+    - Name: mtr
+      Entry: 10
+      Data: 40
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 29|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 41
+    - Name: mtr
+      Entry: 10
+      Data: 40
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 30|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 42
+    - Name: mtr
+      Entry: 10
+      Data: 40
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 31|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 43
+    - Name: mtr
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 32|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 44
+    - Name: mtr
+      Entry: 10
+      Data: 30
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 33|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 45
+    - Name: mtr
+      Entry: 10
+      Data: 30
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 34|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 46
+    - Name: mtr
+      Entry: 10
+      Data: 47
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 35|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 48
+    - Name: mtr
+      Entry: 10
+      Data: 47
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 36|wheelData, Assembly-CSharp
+    - Name: wheel
+      Entry: 10
+      Data: 49
+    - Name: mtr
+      Entry: 10
+      Data: 47
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

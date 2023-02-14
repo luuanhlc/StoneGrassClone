@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 05c9e0a47c1c75d4c82d64b50eba671e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _DirtTex: {instanceID: 0}
+  - _GrassTex: {instanceID: 0}
+  - _NoGrassTex: {instanceID: 0}
+  - _WindTex: {instanceID: 0}
+  - _BrushTex: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

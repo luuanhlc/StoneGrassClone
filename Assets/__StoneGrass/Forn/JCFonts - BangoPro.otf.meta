@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d1f12d08a5479e64dad3f6355eb87237
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bango Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 750393ed9cb4af44f9e28827676b6b72, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

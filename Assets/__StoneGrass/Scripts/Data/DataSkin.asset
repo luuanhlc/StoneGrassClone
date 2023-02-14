@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a709681adc458a46b8412bb9af1e3ae, type: 3}
+  m_Name: DataSkin
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: bcfde817fec5aa04fbd088bdfcb11c5e, type: 3}
+    - {fileID: 21300000, guid: ac8801a985cdb114dafbe26a4af51788, type: 3}
+    - {fileID: 21300000, guid: c24931f8d487f344e8a435848c505c42, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: dataSkins
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[DataSkin, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 1|DataSkin, Assembly-CSharp
+    - Name: type
+      Entry: 3
+      Data: 2
+    - Name: idItem
+      Entry: 3
+      Data: 0
+    - Name: _itemIcon
+      Entry: 10
+      Data: 0
+    - Name: price
+      Entry: 3
+      Data: 0
+    - Name: sold
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|DataSkin, Assembly-CSharp
+    - Name: type
+      Entry: 3
+      Data: 2
+    - Name: idItem
+      Entry: 3
+      Data: 1
+    - Name: _itemIcon
+      Entry: 10
+      Data: 1
+    - Name: price
+      Entry: 3
+      Data: 200
+    - Name: sold
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|DataSkin, Assembly-CSharp
+    - Name: type
+      Entry: 3
+      Data: 1
+    - Name: idItem
+      Entry: 3
+      Data: 2
+    - Name: _itemIcon
+      Entry: 10
+      Data: 2
+    - Name: price
+      Entry: 3
+      Data: 500
+    - Name: sold
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden_Aubergine_ImageEffects_Wiggle
+  m_Shader: {fileID: 4800000, guid: d93123219550389428a50d2492c7f349, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AnisoTex:
+        m_Texture: {fileID: 2800000, guid: 4e319ba001423bf408db7ca353283ecd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: fd258c577b2148d409806e12c7002622, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: cbe168154069f9442ae708028ea49399, type: 3}
+        m_Scale: {x: 1.33, y: 1.01}
+        m_Offset: {x: 0, y: 0}
+    - _RampTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularTex:
+        m_Texture: {fileID: 2800000, guid: 749219897bdc47d45a4a37a6e629e7ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubTex1:
+        m_Texture: {fileID: 2800000, guid: 73b7249dd71eddd4fb23612b0e6d4318, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubTex2:
+        m_Texture: {fileID: 2800000, guid: 28970aecf31472d4886eaac98ffcea9a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _AlphaBoost: 1.5
+    - _AnisoOffset: 0.111
+    - _ColorMask: 15
+    - _Cutoff: 0.161
+    - _Falloff: 3
+    - _Fill: 1
+    - _FillRate: 0.523
+    - _FlashAmount: 0.053
+    - _HighlightScale: -9.8
+    - _InnerGlow: 0.6
+    - _InvFade: 0.89
+    - _K: 1
+    - _OutLineSpeed: 0
+    - _OutlineDot: 0.25
+    - _OutlineDot2: 0.5
+    - _OutlineExtrusion: 0
+    - _OutlineSpeed: 50
+    - _P: 1
+    - _RimPower: 3
+    - _ScrollSpeed: 25
+    - _ScrollXSpeed: 2
+    - _ScrollYSpeed: 3
+    - _SoftenEdgeWidth: 0
+    - _Speed: 8.61
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _Time: 29.7331
+    - _TimeM: 0
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _BrightColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Center: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 1, g: 0, b: 0, a: 1}
+    - _DarkColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FlashColor: {r: 1, g: 1, b: 1, a: 0}
+    - _HighlightColor: {r: 0.9339623, g: 0.18062477, b: 0.18062477, a: 1}
+    - _InsideColor: {r: 1, g: 1, b: 1, a: 0.7607843}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _OutsideColor: {r: 1, g: 0.89180857, b: 0.07075471, a: 1}
+    - _RimColor: {r: 0.26, g: 0.19, b: 0.16, a: 0}
+    - _SourcePos: {r: 0, g: 0, b: 0, a: 0}
+    - _SpeedA: {r: 0.08, g: -0.5, b: 0, a: 0}
+    - _SpeedB: {r: -0.06, g: -0.2, b: 0, a: 0}
+    - _TilingA: {r: 1, g: 0.5, b: 0, a: 0}
+    - _TilingB: {r: 2, g: 0.4, b: 0, a: 0}
+  m_BuildTextureStacks: []

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 10542dba365a5984ead6714e802f1288
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Mediation/AdColony/Editor
+- al_max_export_path-MaxSdk\Mediation\AdColony\Editor
+- al_max_export_path-MaxSdk\Mediation\AdFly\Editor
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

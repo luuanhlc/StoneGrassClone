@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 858bf3ef57bee844e9b19689011c1b59, type: 3}
+  m_Name: SoldierDataSkins
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  skinIcons: []
+  skinTextures:
+  - {fileID: 2800000, guid: 27e8049bf304a664aa929f11a46c8891, type: 3}
+  - {fileID: 2800000, guid: 520259aa1e2e8e64abb8a929fbb0dab8, type: 3}
+  - {fileID: 2800000, guid: a1cb6f8a02a3de14da73ca569c2b5940, type: 3}
+  - {fileID: 2800000, guid: 6733af5c57fec8c41b347fd6805d817a, type: 3}
+  numberTextures: []
+  faceTextures: []
+  winTexture: {fileID: 0}
+  loseTexture: {fileID: 0}
+  faceRenderer: {fileID: 0}
+  maskIcons: []
+  masks: []
+  hatIcons: []
+  Hats: []
+  petIcons: []
+  pets: []

@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pushable
+  - FxTemporaire
+  - WallOver
+  - CandyPiece
+  - PaperBlue
+  - Bullet
+  - Shield
+  - Pet
+  - product
+  - Line
+  - Saw
+  - Building
+  - Sell
+  - Block
+  - Grid
+  - Box
+  - Items
+  - GrassPlace
+  - Plane
+  - Decor
+  - ReturnHome
+  - tron
+  - vuong
+  - SellPos
+  - WareHouse
+  - WindMill
+  - GridSquare
+  - Target
+  - UICanvas
+  - PopupSetting
+  - TutHand
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Product
+  - Water
+  - UI
+  - Plane
+  - Player
+  - Building
+  - Line
+  - VisibleWall
+  - Saw
+  - BuildingBody
+  - Xeday
+  - Body
+  - GridSquare
+  - Block
+  - BuildBridge
+  - Tile
+  - Item
+  - GrassPlace
+  - Check
+  - Box
+  - hidePlane
+  - Tree
+  - TutorialBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGroundLayer
+    uniqueID: 2202205059
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 3347278277
+    locked: 0
+  - name: Joy
+    uniqueID: 1745133445
+    locked: 0
+  - name: BlockTouch
+    uniqueID: 2979024761
+    locked: 0

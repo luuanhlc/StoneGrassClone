@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2ec1b5b87fc9ad74a9c406fc96f42fa8
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Mediation/AdColony/Editor/Dependencies.xml
+- al_max_export_path-MaxSdk\Mediation\AdColony\Editor\Dependencies.xml
+- al_max_export_path-MaxSdk\Mediation\AdFly\Editor\Dependencies.xml
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
